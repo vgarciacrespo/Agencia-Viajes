@@ -37,11 +37,17 @@ La aplicación maneja tres tipos de roles (Administrador, Empleado, Usuario) y o
 *Este proyecto fue desarrollado como práctica universitaria para la asignatura de Software Web.*
 
 👨‍💻 Autores
-
+<br/>
 Víctor García Crespo
+<br/>
 Carlos Fernández Cano
+<br/>
 Aarón Goméz Vera
+<br/>
 David Sanz Olalla
+<br/>
 Santiago Galindo Duran
+<br/>
 Pablo Gallego Pérez
+<br/>
 David Naranjo Osorio
